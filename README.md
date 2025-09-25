@@ -2,6 +2,8 @@
 
 This project is a Python-based application that automatically scrapes job listings from various company career pages, classifies them by role and seniority, and displays them in an interactive web dashboard built with Streamlit.
 
+![Job Scraper Dashboard](assets/dashboard_screenshot.png)
+
 ## Features
 
 - **Automated Scraping**: Modular scrapers for different job board platforms (Greenhouse, Lever, Workable, etc.).
