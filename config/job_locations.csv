@@ -1,0 +1,20 @@
+id,city,country,region,normalized_name,aliases,is_verified,needs_review,created_at,updated_at
+9dba82cf-ab07-49d5-847d-583fa06db5f5,Sydney,,,Sydney,,true,false,2025-08-01 11:26:50.630844+00,2025-08-01 11:26:50.630844+00
+3d6ab674-276d-4382-b79e-b83c9dfce689,New York,,,New York,ny|nyc,true,false,2025-08-01 11:26:50.630844+00,2025-08-01 11:26:50.630844+00
+d6596be1-4df4-44b9-9949-6cf335df66f7,London,,,London,,true,false,2025-08-01 11:26:50.630844+00,2025-08-01 11:26:50.630844+00
+c84910ab-4125-4ce0-b209-ab4ed55a8041,Amsterdam,,,Amsterdam,,true,false,2025-08-01 11:26:50.630844+00,2025-08-01 11:26:50.630844+00
+e320fcab-68a5-48ff-aaaa-ae9f276928be,Melbourne,,,Melbourne,,true,false,2025-08-01 11:26:50.630844+00,2025-08-01 11:26:50.630844+00
+31bd77a3-a135-475c-990b-c085f6b2435b,Austin,,,Austin,,true,false,2025-08-01 11:26:50.630844+00,2025-08-01 11:26:50.630844+00
+937121e5-53c5-4f48-a063-080e29ceef48,Chicago,,,Chicago,,true,false,2025-08-01 11:26:50.630844+00,2025-08-01 11:26:50.630844+00
+d28e8da6-a603-4d9a-bcfb-938f1249ef0e,Hong Kong,,,Hong Kong,,true,false,2025-08-01 11:26:50.630844+00,2025-08-01 11:26:50.630844+00
+324bd136-c640-4f37-b02d-4d2bc6a46a91,Singapore,,,Singapore,,true,false,2025-08-01 11:26:50.630844+00,2025-08-01 11:26:50.630844+00
+1a1b2c3d-4e5f-6a7b-8c9d-0e1f2a3b4c5d,,,Connecticut,Connecticut,Ct,true,false,2025-09-24 04:17:04.000000+00,2025-09-24 04:17:04.000000+00
+2a1b2c3d-4e5f-6a7b-8c9d-0e1f2a3b4c5d,Dublin,,Ireland,Dublin,Dublin Ireland,true,false,2025-09-24 04:17:04.000000+00,2025-09-24 04:17:04.000000+00
+3a1b2c3d-4e5f-6a7b-8c9d-0e1f2a3b4c5d,,,Illinois,Illinois,Il,true,false,2025-09-24 04:17:04.000000+00,2025-09-24 04:17:04.000000+00
+4a1b2c3d-4e5f-6a7b-8c9d-0e1f2a3b4c5d,,,New South Wales,New South Wales,nsw,true,false,2025-09-24 04:17:04.000000+00,2025-09-24 04:17:04.000000+00
+5a1b2c3d-4e5f-6a7b-8c9d-0e1f2a3b4c5d,,,Texas,Texas,Tx,true,false,2025-09-24 04:17:04.000000+00,2025-09-24 04:17:04.000000+00
+6a1b2c3d-4e5f-6a7b-8c9d-0e1f2a3b4c5d,,United States,,United States,Us,true,false,2025-09-24 04:17:04.000000+00,2025-09-24 04:17:04.000000+00
+7a1b2c3d-4e5f-6a7b-8c9d-0e1f2a3b4c5d,,United Kingdom,,United Kingdom,uk,true,false,2025-09-24 04:17:04.000000+00,2025-09-24 04:17:04.000000+00
+8a1b2c3d-4e5f-6a7b-8c9d-0e1f2a3b4c5d,,,Washington,Washington,wa,true,false,2025-09-24 04:17:04.000000+00,2025-09-24 04:17:04.000000+00
+6cd50d9b-2607-4ded-925b-60d3211802ad,Remote,,,Remote,,true,false,2025-08-01 11:26:50.630844+00,2025-08-01 11:26:50.630844+00
+8d9210ba-0ac8-4330-9091-c6fb7983fecf,Hybrid,,,Hybrid,,true,false,2025-08-01 11:26:50.630844+00,2025-08-01 11:26:50.630844+00

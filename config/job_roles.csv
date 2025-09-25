@@ -1,0 +1,12 @@
+id,title,description,is_active,created_at,updated_at,color_class
+1075e94b-0e48-47d9-9f52-8aae6a1092b3,Developer,Software development and engineering,true,2025-06-18 04:12:25.383997+00,2025-06-18 04:12:25.383997+00,bg-orange-100 text-orange-800 border-orange-200
+40636700-bea9-4679-83cb-dedffb8e5406,Research,Mathematical modeling and quantitative analysis,true,2025-06-18 04:12:25.383997+00,2025-06-18 04:12:25.383997+00,bg-blue-100 text-blue-800 border-blue-200
+53d1c4e6-a1a1-41e9-9fe8-93ae071a3a3a,Compliance,,true,2025-07-31 00:19:25.777664+00,2025-07-31 00:19:25.777664+00,bg-gray-100 text-gray-800 border-gray-200
+54142859-cd76-4154-8c80-c6840926fb2d,Recruiter,,true,2025-07-31 00:13:46.807823+00,2025-07-31 00:13:46.807823+00,bg-gray-100 text-gray-800 border-gray-200
+758669c2-2961-4570-bfb8-0ab7b44bc16e,Trading,Trading and market making roles,true,2025-06-18 04:12:25.383997+00,2025-06-18 04:12:25.383997+00,bg-emerald-100 text-emerald-800 border-emerald-200
+96954fd1-45f7-40c8-87ce-da7ca1db6e78,Hardware Engineer,FPGA Engineering,true,2025-07-30 23:17:49.825117+00,2025-07-30 23:17:49.825117+00,bg-gray-100 text-gray-800 border-gray-200
+98b2c1b7-81f8-4600-a791-37794a09927c,Financial Analyst,Equity research and analysis,true,2025-06-18 04:12:25.383997+00,2025-06-18 04:12:25.383997+00,bg-purple-100 text-purple-800 border-purple-200
+c95d9539-0394-4083-9a1a-e091447d2312,Sales & Marketing,Client relationship and sales roles,true,2025-06-18 04:12:25.383997+00,2025-06-18 04:12:25.383997+00,bg-orange-100 text-orange-800 border-orange-200
+ca985a0c-79de-4743-839a-266a1f229db7,Risk,Risk management and compliance,true,2025-06-18 04:12:25.383997+00,2025-06-18 04:12:25.383997+00,bg-red-100 text-red-800 border-red-200
+d06290aa-b505-46e3-a557-c95f12b9b098,Operations,Operations and support functions,true,2025-06-18 04:12:25.383997+00,2025-06-18 04:12:25.383997+00,bg-teal-100 text-teal-800 border-teal-200
+eb2cbe70-971a-48a5-956b-34baeb945f80,Human Resources,,true,2025-07-31 03:08:22.665392+00,2025-07-31 03:08:22.665392+00,bg-gray-100 text-gray-800 border-gray-200

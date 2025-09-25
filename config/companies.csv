@@ -1,0 +1,62 @@
+id,name,slug,website,greenhouse_board_token,scraper_type,scraper_config,logo_filename
+03629d57-0805-4363-9b04-95cc7fa00202,Five Rings Capital,five-rings-capital,https://fiverings.com/,fiveringsllc,greenhouse,{},fiveringslogo.jpeg
+0429365c-9460-4ee5-bc0f-76cafd81e6d1,Flow Traders,flow-traders,https://www.flowtraders.com,flowtraders,greenhouse,{},flowlogo.jpeg
+04ebef3b-f70f-45aa-ba4f-2e1d48ebd329,Optiver,optiver,https://optiver.com,optiverus,greenhouse,{},optiverlogo.jpeg
+05a11235-96de-4dec-a711-8bd669680070,ACT Commodities,act-commodities,https://www.actcommodities.com/,,,{},actcommoditieslogo.jpeg
+18626bf0-8546-4e4b-9c23-c8a54a8450a3,Qube Research & Technologies,qube-research-technologies,https://www.qube-rt.com/,quberesearchandtechnologies,greenhouse,{},
+193cd322-1186-494d-83f6-3d37fc3da6cc,Geneva Trading,geneva-trading,https://www.genevatrading.com/,genevatrading,greenhouse,{},genevatradinglogo.jpeg
+1947076e-5fb8-4694-b3cb-79e7ab9322c1,BCR,bcr,https://au.thebcr.com,,,{},bcrlogo.jpeg
+1be1bb08-2b89-4bbf-9728-55d3878013df,Balyasny (BAM),balyasny-bam,https://bambusdev.my.site.com/s/,,,{},
+1f2e7499-4d3e-49b5-86a0-f2a97a5f765b,Point72,point72,,point72,greenhouse,{},
+2e837951-b219-4fde-88a3-e340e19e945d,IMC Trading,imc-trading,https://www.imc.com/ap/,imc,greenhouse,{},imclogo.jpeg
+354e8828-6920-4f5f-bef7-7e740f729706,Maverick Derivatives,maverick-derivatives,https://maverickderivatives.com/,maverickderivatives,greenhouse,{},mavericklogo.jpeg
+364982d7-7cbf-47f5-b610-e47ecfa4a07b,3Red Partners,3red-partners,https://www.3redpartners.com/,3redpartners,greenhouse,{},3redpartnerslogo.jpeg
+3808f85d-8fe7-48b4-90cf-55f3e64f12ed,Citadel Securities,citadel-securities,https://www.citadelsecurities.com,,citadel_portal,"{""url"": ""https://www.citadelsecurities.com/careers/open-opportunities/""}",citadellogo.jpeg
+396f3588-85a3-4f76-99aa-4d18b8dec3bc,All Options,all-options,,,greenhouse,{},
+3a5aa87e-bd7f-45f8-babd-1d1c7705bb85,Liquid Capital Group,liquid-capital-group,https://www.linkedin.com/company/liquid-capital-group/?originalSubdomain=nl,,,{},liquidcapitallogo.jpeg
+3cc369c5-fec9-4707-b01f-89b74f1ecbd1,VIRTU Financial,virtu-financial,https://www.virtu.com/,virtu,greenhouse,{},virtulogo.jpeg
+3d60309b-a728-4352-bf24-9b093089b2f3,Jane Street,jane-street,https://www.janestreet.com,janestreet,greenhouse,{},janestreetlogo.jpeg
+45d95dab-92b0-4680-a09a-71f859684a79,City Investment Solutions,city-investment-solutions,https://www.cityinvestmentsol.co.uk,,,{},cislogo.jpeg
+47b52c65-6666-430d-8653-9e7206a7cbbe,Akuna Capital,akuna-capital,https://akunacapital.com/,akunacapital,greenhouse,{},akunacapitallogo.jpeg
+48196128-0c1b-410d-a118-d3fa153cdd69,Tibra Capital,tibra-capital,https://www.tibra.com,,workable,"{""subdomain"": ""tibra-capital-1""}",tibralogo.jpeg
+4a30cdb5-8f50-4ca3-a555-dcd891be2ed8,UTR8 Group,utr8-group,https://www.utr8-group.com/,,,{},utr8logo.jpeg
+4a9ca40d-98d3-44c6-a263-1cab44990d47,Life Trading,life-trading,https://www.lifetrading.com.au,lifetrading,greenhouse,{},lifetradinglogo.webp
+608231bb-2927-41d4-ae79-fab8beef7bce,Exponential Trading,exponential-trading,https://www.exponentialtrading.com.au/,,,{},exponentiallogo.jpeg
+60a5844e-78cc-4ca9-9354-d3ec2395494c,Wolverine Trading,wolverine-trading,https://www.wolve.com/,,lever,"{""site"": ""wolve""}",wolverinelogo.jpeg
+6905b4e9-7021-4312-959f-04a8f001516a,Quantlab,quantlab,https://www.quantlab.com/,,,{},quantlablogo.jpeg
+735764b7-483c-43f7-81d7-3efd35f3211a,26 Degrees,26-degrees,https://www.26degreesglobalmarkets.com,,,{},26degreeslogo.jpeg
+7386e92f-5fef-46f4-ace8-e736f43b5d2c,Mako Trading,mako-trading,https://www.mako.com,mako,greenhouse,{},makologo.jpeg
+74a1aafb-633e-4909-986d-98ecc310d1ed,Belvedere Trading,belvedere-trading,https://www.belvederetrading.com/,,lever,"{""site"": ""belvederetrading""}",belvederetradinglogo.jpeg
+7a93a2b5-a2b0-4d1d-b88d-e9a6e1914414,DV Trading,dv-trading,https://dvtrading.co/,dvtrading,greenhouse,{},dvtradinglogo.jpeg
+7afb6c1c-73de-498a-af97-823f51e118e5,Hudson River Trading,hudson-river-trading,https://www.hudsonrivertrading.com/,wehrtyou,greenhouse,{},hrtlogo.jpeg
+7e203fa7-a953-4d95-a076-cbf088ccbc10,Susquehanna International Group,susquehanna-international-group,https://sig.com,,,{},siglogo.jpeg
+85253298-523e-45d5-b24b-a4a957d6d748,Jump Trading,jump-trading,https://www.jumptrading.com/,jumptrading,greenhouse,{},jumptradinglogo.jpeg
+87baea54-3f0d-4430-ac8c-28741cfbd438,Da Vinci Trading,da-vinci-trading,https://davincitrading.com/,davinciderivatives,greenhouse,{},
+88fb8146-34b7-4bb5-8140-748750e4c100,Eagle Seven,eagle-seven,https://www.eagleseven.com/,,workable,"{""subdomain"": ""eagle-seven""}",eaglesevenlogo.jpeg
+8a7e7bf6-13e1-43f7-9e97-38761e40f62f,Radix,radix,http://radix-trading.com,radixuniversity,greenhouse,{},
+8a9ae47a-806d-4273-9129-b6bf667f805f,AlphaGrep,alphagrep,https://www.alpha-grep.com/,alphagrepsecurities,greenhouse,{},alphagreplogo.jpeg
+8dd964b1-8c8f-4ed9-9753-d9e96e4ef62f,Quantlane,quantlane,http://quantlane.com,,lever,"{""site"": ""quantlane""}",
+8f3c7611-328d-43e7-8459-c84efd3be0dc,Old Mission Capital,old-mission-capital,https://www.oldmissioncapital.com/,oldmissioncapital,greenhouse,{},oldmissioncapitallogo.jpeg
+9ed8bc85-77e9-4a8e-9598-2aaee9d87370,Epoch Capital,epoch-capital,https://epoch.capital/,epochcapital,greenhouse,{},epochcapitallogo.jpeg
+adb866df-ae7b-4143-9448-a3270b3b1d38,XY Capital,xy-capital,https://www.xycapitalgroup.com/,xycapital,greenhouse,{},xylogo.jpeg
+addef82c-e052-4e60-a7e8-ff47eeccc3d6,Propex Derivatives,propex-derivatives,https://www.linkedin.com/company/propex-derivatives/,,,{},propexlogo.jpeg
+bc376c35-561a-4fe3-b2be-44ca1ac37226,DRW,drw,https://drw.com/,drweng,greenhouse,{},drwlogo.jpeg
+bcef9f9d-4fa1-46a2-9148-2a080d291862,Nine Mile,nine-mile,https://www.nmftrading.com/,,nine_mile_html,{},ninemilelogo.jpeg
+c01574b2-4871-4aba-a24b-5839a72021f7,WEBB Traders,webb-traders,https://www.webbtraders.com/,,webb_html,"{""url"": ""https://webbtraders.com/careers"", ""base"": ""https://webbtraders.com"", ""pattern"": ""<a href=\""(?P<link>/careers/[^\""]+)\""[^>]*>(?P<title>[^<]+)</a>.*?>(?P<team>[A-Z][^<]+)</span>.*?\\|\\s*</span>\\s*(?P<loc>[A-Za-z ,]+)""}",
+c68aa255-02bf-46ce-9d05-9af053f8a206,D2X,d2x,https://www.d2x.com/,,,{},d2xlogo.jpeg
+c6f86fe3-3b66-41de-954f-65bce7a1f660,Autumn Compass,autumn-compass,http://www.autumncompass.com,,,{},autumncompasslogo.jpeg
+c75f367f-4db5-473f-961b-fb2328c2cf86,XTX Markets,xtx-markets,https://www.xtxmarkets.com/,xtxmarketstechnologies,greenhouse,{},xtxmarketslogo.jpeg
+c85ee945-8a50-4477-95ac-20ff7d3d5cd7,Maven Securities,maven-securities,https://www.mavensecurities.com,mavensecuritiesholdingltd,greenhouse,{},mavenlogo.jpeg
+c8c41a42-0e18-400d-89ba-5f3b8dd14345,Quantbox Research,quantbox-research,https://www.quantboxresearch.com/,quantboxresearchpte,greenhouse,{},quantboxresearchlogo.jpeg
+cab34e6f-3357-4b26-a176-a8afc1e6c16b,Minter Capital,minter-capital,https://www.linkedin.com/company/minter-capital/about/,,,{},mintercapitallogo.jpeg
+cbbb1513-9377-4da0-a0bc-f6c2a0a53fbd,BlockTech,blocktech,https://www.block-tech.io/,,recruitee,"{""slug"": ""blocktech""}",
+d1faa82f-4c6e-4a38-b2b4-5cee76e4bb5b,TradeLink,tradelink,https://tradelinkllc.com/,,,{},tradelinklogo.jpeg
+d20b8a22-5c00-4f29-b0a7-6348653e1d54,Citadel,citadel,,,,{},citadellogo.jpeg
+d3f9d0d8-cd92-4f3f-a840-81dedf4c6db0,Chicago Trading Company,chicago-trading-company,https://www.chicagotrading.com/,chicagotrading,greenhouse,{},chicagotradinglogo.jpeg
+d982c3b1-6926-46bc-8cf6-8439352e9355,VivCourt Trading,vivcourt-trading,https://www.vivcourt.com,vivcourt,greenhouse,{},vivcourtlogo.png
+d9e4ed5d-e19a-4968-bf39-d2dea0df741d,Ark International,ark-international,https://www.linkedin.com/company/ark-international-group/posts/?feedView=all,,,{},arkinterationallogo.jpeg
+e3fa1ef4-5db3-4904-b209-2157ca9f5728,Mathrix,mathrix,https://www.mathrix.com/,,recruitee,"{""slug"": ""mathrix""}",mathrixlogo.jpeg
+e9705a47-1214-499b-b64c-b47ab5de40e9,Eclipse Trading,eclipse-trading,https://www.eclipsetrading.com,eclipsetrading,greenhouse,{},eclipselogo.jpeg
+ea35c201-edd6-464f-bb8c-369c33e7aed8,Tower Research Capital,tower-research-capital,https://www.tower-research.com/,towerresearchcapital,greenhouse,{},towerresearchlogo.jpeg
+efeb4a1d-6771-44e9-904b-0b5484f73058,Wincent,wincent,https://www.wincent.com/,,greenhouse,{},
+fdd0043d-da60-4248-a5b1-330f25c05868,Star Beta,star-beta,https://starbetatech.com,,,{},starbetalogo.jpeg

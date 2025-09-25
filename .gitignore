@@ -1,0 +1,22 @@
+# Database
+jobs.db
+
+# Log Files
+*.log
+
+# Environment Variables
+.env
+
+# Python specific
+__pycache__/
+*.pyc
+venv/
+.venv/
+env/
+
+# IDE specific
+.vscode/
+.idea/
+
+# Mac specific
+.DS_Store
